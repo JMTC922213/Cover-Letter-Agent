@@ -1,0 +1,53 @@
+Alex Chen
+alex.chen@example.com  |  github.com/alexchen-dev  |  New York, NY
+
+SUMMARY
+Software engineer with 5 years building developer-facing tools and backend
+services. Strong in Python and TypeScript. Believes good developer tools
+should disappear into the workflow.
+
+EXPERIENCE
+
+Senior Software Engineer — DataPath Inc.                       2022 – Present
+- Lead developer on an internal CLI toolkit used by 200+ engineers daily for
+  querying production data lakes. Built in Python with Click; reduced
+  average debug-investigation time from 45 minutes to 12 minutes.
+- Designed and shipped a developer-onboarding portal in TypeScript/Next.js,
+  cutting new-hire ramp time from 6 weeks to 3.
+- Owned the migration of 14 microservices from REST to gRPC; coordinated
+  rollout across 4 teams without downtime.
+
+Software Engineer — GreenWave Analytics                        2020 – 2022
+- Built a React/Node.js dashboard serving 8,000 daily active users; reduced
+  page load from 3.2s to 800ms by introducing edge caching.
+- Authored 23 REST endpoints in TypeScript powering customer-facing APIs;
+  wrote integration tests reaching 87% coverage.
+- Mentored two interns through their summer projects.
+
+Junior Developer — BrightStart Solutions                       2019 – 2020
+- Maintained a Django backend serving ~500 RPS; reduced p99 latency 40% by
+  fixing N+1 query patterns and adding targeted indexes.
+- Wrote internal documentation that became the team's onboarding standard.
+
+PROJECTS
+
+qlog (open source)                                             2023 – Present
+- CLI tool for filtering and aggregating JSON log streams. Written in
+  Python, ~1,800 GitHub stars, distributed via PyPI and Homebrew.
+
+cover-letter-bot (side project)                                2024
+- Streamlit app that drafts cover letters from a CV and job description
+  using the OpenAI API. Built as a weekend project to learn LLM API patterns.
+
+SKILLS
+
+Languages:    Python (5y, advanced), TypeScript (4y, proficient),
+              Go (1y, basic), SQL
+Frameworks:   FastAPI, Django, Next.js, React, Node.js
+Tools:        Docker, PostgreSQL, Redis, Git, Linux/macOS shell
+LLM APIs:     OpenAI (familiar — one shipped project), Anthropic (light exposure)
+
+EDUCATION
+
+BS Computer Science — Northeastern University                  2015 – 2019
+- Graduated cum laude. Senior project: a terminal-based static site generator.

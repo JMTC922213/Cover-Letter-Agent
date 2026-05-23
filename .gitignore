@@ -1,0 +1,21 @@
+# Secrets — never commit this
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Node — Claude Code CLI install, not part of this project
+node_modules/
+package.json
+package-lock.json
+
+# Private planning notes — not for recruiters
+cover-letter-agent-weekend-plan.md
