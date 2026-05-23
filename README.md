@@ -4,7 +4,11 @@ A Streamlit app that drafts a tailored cover letter, identifies skill gaps betwe
 
 Built as a weekend project to practice **prompt engineering**, **LLM-as-judge evaluation**, and **iterative quality measurement** against a real free-tier LLM API (Gemini).
 
-> _Drop a screenshot here once you've taken one — add `![screenshot](docs/screenshot.png)` and the image at that path._
+![Cover Letter Agent — input view: paste a JD and click Generate](docs/Screenshot1.png)
+
+![Generated cover letter — tailored to the JD, grounded in the CV](docs/Screenshot2.png)
+
+![Live LLM-as-judge scoring across 5 dimensions, plus structured skill-gap analysis](docs/Screenshot3.png)
 
 ---
 
